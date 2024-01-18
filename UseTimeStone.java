@@ -52,9 +52,6 @@ package avengers;
  *    1. Make sure you are in the ../InfinityWar directory
  *    2. javac -d bin src/avengers/*.java
  *    3. java -cp bin avengers/UseTimeStone usetimestone.in usetimestone.out
- * 
- * @author Yashas Ravi
- * 
  */
 
 public class UseTimeStone {
@@ -65,9 +62,5 @@ public class UseTimeStone {
             StdOut.println("Execute: java UseTimeStone <INput file> <OUTput file>");
             return;
         }
-
-    	// WRITE YOUR CODE HERE
-        
-        
     }
 }
